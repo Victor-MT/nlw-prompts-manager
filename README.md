@@ -1,4 +1,4 @@
-Prompts Manager (Community)
+## Prompts Manager (Community)
 
 Prompts Manager é uma aplicação web moderna para organizar, editar e gerenciar prompts de forma eficiente. O projeto foi desenhado para ser intuitivo, responsivo e fácil de usar, inspirado em interfaces profissionais e minimalistas.
 
@@ -68,6 +68,7 @@ Este projeto é ideal para quem busca exemplos de código limpo, organização d
 
 - Este projeto foi construído utilizando o MCP do Figma, como forma de testar a integração de Inteligência Artificial no fluxo de trabalho e obter ganhos reais de produtividade no desenvolvimento front-end.
 - O JavaScript da aplicação utiliza o conceito de localStorage para persistir dados dos prompts, permitindo que o usuário mantenha suas informações salvas mesmo após fechar o navegador.
+
 
 
 
