@@ -1,4 +1,4 @@
-# Prompts Manager (Community)
+<img width="1574" height="738" alt="{AF34D0AB-726A-4C73-9825-555177D38540}" src="https://github.com/user-attachments/assets/50e12fb6-fb83-4697-adab-5bc3ebdecd7d" /><img width="1574" height="738" alt="{AF34D0AB-726A-4C73-9825-555177D38540}" src="https://github.com/user-attachments/assets/ad852175-1d88-4f9e-8514-7242ae91b240" /># Prompts Manager (Community)
 
 Prompts Manager é uma aplicação web moderna para organizar, editar e gerenciar prompts de forma eficiente. O projeto foi desenhado para ser intuitivo, responsivo e fácil de usar, inspirado em interfaces profissionais e minimalistas.
 
@@ -20,6 +20,9 @@ Prompts Manager é uma aplicação web moderna para organizar, editar e gerencia
 - SVGs customizados para ícones
 - Google Fonts (Inter)
 - Utilização do MCP do Figma integrado com o GitCopilot
+
+Além disso, foi adicionado ao projeto original um sistema de rastreamento de interações com o site por meio do Google Analytics:
+![Painel Google Analytics](assets/google-analytics.png)
 
 ## Estrutura do Projeto
 
@@ -65,5 +68,6 @@ Este projeto é ideal para quem busca exemplos de código limpo, organização d
 
 - Este projeto foi construído utilizando o MCP do Figma, como forma de testar a integração de Inteligência Artificial no fluxo de trabalho e obter ganhos reais de produtividade no desenvolvimento front-end.
 - O JavaScript da aplicação utiliza o conceito de localStorage para persistir dados dos prompts, permitindo que o usuário mantenha suas informações salvas mesmo após fechar o navegador.
+
 
 
