@@ -12,8 +12,7 @@ Prompts Manager é uma aplicação web moderna para organizar, editar e gerencia
 - Interface responsiva e visual limpo
 - Ícones SVG otimizados para ações rápidas
   
-Além disso, foi adicionado ao projeto original um sistema de rastreamento de interações com o site por meio do Google Analytics:
-
+Além disso, foi adicionado ao projeto original um sistema de rastreamento de interações com o site por meio do Google Analytics, permitindo acompanhar métricas de uso e aprimorar continuamente a performance e usabilidade do sistema.
 ![Painel Google Analytics](assets/google-analytics.png)
 
 ## Tecnologias Utilizadas
@@ -71,6 +70,7 @@ Este projeto é ideal para quem busca exemplos de código limpo, organização d
 
 - Este projeto foi construído utilizando o MCP do Figma, como forma de testar a integração de Inteligência Artificial no fluxo de trabalho e obter ganhos reais de produtividade no desenvolvimento front-end.
 - O JavaScript da aplicação utiliza o conceito de localStorage para persistir dados dos prompts, permitindo que o usuário mantenha suas informações salvas mesmo após fechar o navegador.
+
 
 
 
